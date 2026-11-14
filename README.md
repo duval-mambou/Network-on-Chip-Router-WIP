@@ -106,4 +106,4 @@ A longer document with the design of each block is in the `docs` folder.
 Electrical Engineering student, FPGA and SoC design
 ENIB, National School of Engineering of Brest, France
 
-[LinkedIn](https://www.linkedin.com/in/duval-mambou) | [GitHub](https://github.com/duval-mambou)# Network-on-Chip-Router-WIP
+[LinkedIn](https://www.linkedin.com/in/duval-mambou) | [GitHub](https://github.com/duval-mambou) # Network-on-Chip-Router-WIP
